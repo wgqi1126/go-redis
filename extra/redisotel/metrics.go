@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/wgqi1126/go-redis/v9"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/metric"

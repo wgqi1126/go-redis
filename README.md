@@ -1,7 +1,7 @@
 # Redis client for Go
 
-[![build workflow](https://github.com/redis/go-redis/actions/workflows/build.yml/badge.svg)](https://github.com/redis/go-redis/actions)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/redis/go-redis/v9)](https://pkg.go.dev/github.com/redis/go-redis/v9?tab=doc)
+[![build workflow](https://github.com/wgqi1126/go-redis/actions/workflows/build.yml/badge.svg)](https://github.com/wgqi1126/go-redis/actions)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/wgqi1126/go-redis/v9)](https://pkg.go.dev/github.com/wgqi1126/go-redis/v9?tab=doc)
 [![Documentation](https://img.shields.io/badge/redis-documentation-informational)](https://redis.uptrace.dev/)
 [![Chat](https://discordapp.com/api/guilds/752070105847955518/widget.png)](https://discord.gg/rWtp5Aj)
 
@@ -16,10 +16,10 @@
 ## Resources
 
 - [Documentation](https://redis.uptrace.dev)
-- [Discussions](https://github.com/redis/go-redis/discussions)
+- [Discussions](https://github.com/wgqi1126/go-redis/discussions)
 - [Chat](https://discord.gg/rWtp5Aj)
-- [Reference](https://pkg.go.dev/github.com/redis/go-redis/v9)
-- [Examples](https://pkg.go.dev/github.com/redis/go-redis/v9#pkg-examples)
+- [Reference](https://pkg.go.dev/github.com/wgqi1126/go-redis/v9)
+- [Examples](https://pkg.go.dev/github.com/wgqi1126/go-redis/v9#pkg-examples)
 
 ## Ecosystem
 
@@ -56,7 +56,7 @@ go mod init github.com/my/repo
 Then install go-redis/**v9**:
 
 ```shell
-go get github.com/redis/go-redis/v9
+go get github.com/wgqi1126/go-redis/v9
 ```
 
 ## Quickstart
@@ -64,7 +64,7 @@ go get github.com/redis/go-redis/v9
 ```go
 import (
     "context"
-    "github.com/redis/go-redis/v9"
+    "github.com/wgqi1126/go-redis/v9"
     "fmt"
 )
 
@@ -174,6 +174,6 @@ go test
 
 Thanks to all the people who already contributed!
 
-<a href="https://github.com/redis/go-redis/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=redis/go-redis" />
+<a href="https://github.com/wgqi1126/go-redis/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=wgqi1126/go-redis" />
 </a>
